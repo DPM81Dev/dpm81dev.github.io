@@ -2,7 +2,9 @@
 
 ## Update - Completando datos de la web
 
-01/03/2026 - Modificación de la web.    
-           - Modificación del Footer.
-           - Subida del CV.pdf
+## Update  01/03/2026 Modificacion de la versión Web
+
+## Update  01/03/2026 Modificación del Footer.
+
+## Update  01/03/2026 Subida del CV.pdf
            
