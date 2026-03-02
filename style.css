@@ -140,6 +140,29 @@ body {
   cursor: pointer;
 }
 
+/* Estilos para la imagen de perfil redondeada en el hero */
+.hero-profile-img {
+  width: 150px;             /* Ajusta el tamaño horizontal a tu gusto */
+  height: 150px;            /* Debe ser igual al width para que sea un círculo perfecto */
+  object-fit: cover;        /* Asegura que la imagen no se estire si no es cuadrada */
+  border-radius: 50%;       /* Este es el truco para que sea redonda */
+  
+  /* Estilos opcionales para un acabado más profesional */
+  border: 4px solid #fff;     /* Un borde blanco sutil */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* Una sombra muy suave */
+  
+  margin-bottom: 1.5rem;    /* Espacio entre la imagen y el texto siguiente */
+  display: block;           /* Asegura que ocupe su propia línea si es necesario */
+}
+
+/* Ajuste opcional para móviles: centrar la imagen si el texto está centrado */
+@media (max-width: 768px) {
+  .hero-profile-img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 /* Hero */
 .hero {
   padding: 4.5rem 0 4rem;

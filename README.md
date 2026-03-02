@@ -11,3 +11,5 @@
 ## Update  02/03/2026 Gestion de Formulario de contacto.
 
 ## Update  02/03/2026 Conexion del Formulario de contacto con la api
+
+## Update  02/03/2026 Implementacion foto de perfil.
