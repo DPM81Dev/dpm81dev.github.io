@@ -8,3 +8,6 @@
 
 ## Update  01/03/2026 Subida del CV.pdf
            
+## Update  02/03/2026 Gestion de Formulario de contacto.
+
+## Update  02/03/2026 Conexion del Formulario de contacto con la api
